@@ -1,0 +1,4 @@
+requests
+tldextract
+tabulate
+beautifulsoup4
