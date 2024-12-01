@@ -35,7 +35,7 @@ Install these dependencies using the included `requirements.txt` file.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/CSPStalker.git
+   git clone https://github.com/0xakashk/CSP-Stalker.git
    cd CSP-Stalker
 2. Install dependencies:
    ```bash
